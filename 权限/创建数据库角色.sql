@@ -1,4 +1,4 @@
- use 学生信息管理
+ use 艃搂脡煤膼墓膸藰拧脺艛铆
  create role r1;
  go 
- 
+  
